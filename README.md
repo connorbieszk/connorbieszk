@@ -37,7 +37,14 @@
 
 ###
 
-<p align="left">Hello! I am:<br>- 15<br>- Currently in freshmen year at CHS</p>
+Hello! I am:
+- 15
+- Currently in freshmen year at CHS
+And I am involved in:
+- CyberPatriots
+- Team 3197 FRC
+- Coding Club
+- Swim
 
 ###
 
