@@ -40,7 +40,9 @@
 Hello! I am:
 - 15
 - Currently in freshmen year at CHS
+
 And I am involved in:
+
 - CyberPatriots
 - Team 3197 FRC
 - Coding Club
